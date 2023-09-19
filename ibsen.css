@@ -1,0 +1,63 @@
+.speech{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:16px;
+    text-decoration: solid;
+    text-indent: 15px;
+}
+.direction{
+    color:blue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-decoration: solid;
+    text-decoration-color: aquamarine;
+    text-indent: 18px;
+}
+.direction:hover{
+
+    background-color: azure;
+    color:orange;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.name{
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.billing{
+    color:violet;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.hovstad{
+    color:yellow;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.Stockmann{
+    color:green;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.aslaksen{
+    color:lightsalmon;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.billing:hover{
+    background-color: orange;
+    color:red;
+    text-shadow: 2px 2px blue;
+} 
+.hovstad:hover{
+    text-shadow: 2px 2px brown;
+    background-color: green;
+    color:violet;
+}
+table, th, td {
+    padding:10px;
+    border: 1px solid black;
+    border-collapse:collapse;
+  }
